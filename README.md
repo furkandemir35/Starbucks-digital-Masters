@@ -1,4 +1,4 @@
-#STARBUCKS CAPSTONE PROJECT
+# STARBUCKS CAPSTONE PROJECT
 
 ### Installation <a name="installation"></a>
 The most significant library for operating this project is the Python implementation of Anaconda Distribution. Install all the required packages for research and model building.
@@ -28,4 +28,4 @@ There is 3 type of the data for this project
 3. transcript.json - Transactions
 
 ## Results<a name="results"></a>
-Please check my blogpost on medium for the results:
+Please check my blogpost on medium for the results:https://medium.com/@furkandemir35/starbucks-digital-masters-project-dc8e239db142
